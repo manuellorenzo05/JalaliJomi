@@ -1,0 +1,10 @@
+{
+  "description": "Connect directly with property owners to buy, rent, and explore real estate listings through a clean, user-friendly platform without intermediaries.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
